@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Random;
 
-public class homework_1 {
+public class Homework_1 {
     public static void main(String[] args) {
         int len = 10;
         int[] numbers = new int[len];
